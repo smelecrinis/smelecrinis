@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Silvia :blush:
 
 
-I'm a Junior Frontend Developer with a passion for creating intuitive, user-friendly, and visually appealing web applications. I have hands-on experience with HTML, CSS, JavaScript, and various front-end technologies.
+I'm a Frontend Developer with a passion for creating intuitive, user-friendly, and visually appealing web applications. I have hands-on experience with HTML, CSS, JavaScript, and various front-end technologies.
 
 
 
