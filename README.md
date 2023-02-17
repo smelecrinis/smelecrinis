@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Silvia :blush:
 
 
-I'm a frontend developer from Italy, currently living in Wales. 
-
-I love foxes :fox_face: and when I'm not coding I like to spend my time gaming :joystick: on my Switch or listening to music :headphones:.
+I'm a Junior Frontend Developer with a passion for creating intuitive, user-friendly, and visually appealing web applications. I have hands-on experience with HTML, CSS, JavaScript, and various front-end technologies.
 
 
 
